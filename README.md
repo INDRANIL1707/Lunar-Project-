@@ -1,5 +1,5 @@
 # Lunar-Project-
-Lunar Industrial Systems Simulator
+
 # Lunar Industrial Systems Simulator
 
 A research-oriented simulation framework for studying the **technical and economic dynamics of autonomous industrial systems operating in extreme environments**.
